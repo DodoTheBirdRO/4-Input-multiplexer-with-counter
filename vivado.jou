@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Jan 13 12:21:26 2022
+# Process ID: 13348
+# Current directory: C:/Users/DORIAN/Desktop/project_dorian
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19852 C:\Users\DORIAN\Desktop\project_dorian\project_hada.xpr
+# Log file: C:/Users/DORIAN/Desktop/project_dorian/vivado.log
+# Journal file: C:/Users/DORIAN/Desktop/project_dorian\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/DORIAN/Desktop/project_dorian/project_hada.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source fsm_sim.tcl
+close_sim
